@@ -32,15 +32,4 @@ I am also a student at Faculdade Descomplica, where I study Systems Analysis and
 
 <p align="left"> <a href="linkedin.com/in/hugo-flores-2588b1140/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/hugo-flores-alves"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=hugo-flores-alves" alt="Hugo GitHub stats" /></a>
-
-<a href="http://www.github.com/hugo-flores-alves"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hugo-flores-alves" /></a>
-
-<a href="http://www.github.com/hugo-flores-alves"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hugo-flores-alves" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/hugo-flores-alves" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=hugo-flores-alves" alt="Top Languages" /></a>
 
